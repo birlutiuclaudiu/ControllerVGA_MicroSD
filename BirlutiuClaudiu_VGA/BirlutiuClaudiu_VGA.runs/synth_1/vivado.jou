@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Jan  3 14:29:33 2022
+# Process ID: 7667
+# Current directory: /home/birlutiuclaudiu/Facultate/An3_sem1/SSC/PROJECT/PROIECT FINAL/BirlutiuClaudiu_VGA/BirlutiuClaudiu_VGA.runs/synth_1
+# Command line: vivado -log BlackBox.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BlackBox.tcl
+# Log file: /home/birlutiuclaudiu/Facultate/An3_sem1/SSC/PROJECT/PROIECT FINAL/BirlutiuClaudiu_VGA/BirlutiuClaudiu_VGA.runs/synth_1/BlackBox.vds
+# Journal file: /home/birlutiuclaudiu/Facultate/An3_sem1/SSC/PROJECT/PROIECT FINAL/BirlutiuClaudiu_VGA/BirlutiuClaudiu_VGA.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source BlackBox.tcl -notrace
